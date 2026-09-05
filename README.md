@@ -1,4 +1,4 @@
-# Ethical hacking
+# Ethical Hacking
 Repositorio de Actividades del Curso de Ethical haccking
 # Alumna
 Rocío Milagros Meza Pio
